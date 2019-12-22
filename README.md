@@ -20,7 +20,7 @@ The goals for this challenge are to:
 ## App Preview
 
 Here is a preview of what the web app looks like once all the new filters have been created and are functional:
-![alt text](https://github.com/jbtrahin/Module7-Challenge-JB-Trahin/blob/master/web_app_example.png)
+![alt text](https://github.com/jbtrahin/UFOs/blob/master/static/images/web_app_example.png)
 
 ## Recommendations for further development
 
